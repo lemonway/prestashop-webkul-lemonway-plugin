@@ -1,3 +1,5 @@
+⚠️WARNING: This client is deprecated⚠️ 
+
 # Lemonway Presta Webkul (Abandoned)
 ---
 # _This project has been abandoned._
